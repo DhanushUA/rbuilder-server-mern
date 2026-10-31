@@ -1,0 +1,363 @@
+{
+  "resumes": [
+    {
+      "fullname": "max miller",
+      "location": "texas",
+      "job": "Backend Developer",
+      "phone": "457879879",
+      "email": "max@gmail.com",
+      "linkedin": "linkedlindemo.com",
+      "github": "demogithub.com",
+      "degree": "b.tech in computer science",
+      "college": "standford ",
+      "year": "2023",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git",
+        "devops"
+      ],
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "id": "2Uj5_Hrqrmg"
+    },
+    {
+      "fullname": "sam",
+      "location": "new york",
+      "job": "DevOps Engineer",
+      "phone": "3333333",
+      "email": "sam@gmail.com",
+      "linkedin": "linkdlin.com",
+      "github": "github.com",
+      "degree": "mca",
+      "college": "standford ",
+      "year": "2023",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "id": "AUpgkhIEOt0"
+    },
+    {
+      "fullname": "morello",
+      "location": "chicago",
+      "job": "UI/UX Designer",
+      "phone": "777777777",
+      "email": "morello@gmail.com",
+      "linkedin": "linkdlin.com",
+      "github": "github.com",
+      "degree": "b.tech in computer science",
+      "college": "standford ",
+      "year": "2026",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Usability Testing",
+        "Interaction Design",
+        "Design Systems",
+        "Typography",
+        "Color Theory"
+      ],
+      "summary": "UI/UX designer focused on creating intuitive and visually appealing user experiences. Skilled in wireframing, prototyping, and user-centered design to improve product usability.",
+      "id": "iTl0qPNhvK0"
+    },
+    {
+      "fullname": "vito",
+      "location": "new york",
+      "job": "Full Stack Developer",
+      "phone": "888888888",
+      "email": "vito@gmail.com",
+      "linkedin": "linkdlin.com",
+      "github": "github.com",
+      "degree": "B.TECH",
+      "college": "standford ",
+      "year": "2026",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "Deployment"
+      ],
+      "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
+      "id": "3uWHBQIn21I"
+    },
+    {
+      "fullname": "tommy",
+      "location": "new york",
+      "job": "DevOps Engineer",
+      "phone": "4444444",
+      "email": "tommy@gmail.com",
+      "linkedin": "linkdlin.com",
+      "github": "github.com",
+      "degree": "B.TECH",
+      "college": "standford ",
+      "year": "2022",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "id": "ufQHFxJovL8"
+    },
+    {
+      "fullname": "sam ",
+      "location": "downtown",
+      "job": "Machine Learning Engineer",
+      "phone": "66666666",
+      "email": "sam@gmail.com",
+      "linkedin": "Linkdlin.com",
+      "github": "github.com",
+      "degree": "b.tech in computer science",
+      "college": "standford ",
+      "year": "2026",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": "ygTR7nuXVPM"
+    },
+    {
+      "fullname": "max miller",
+      "location": "texas",
+      "job": "React Developer",
+      "phone": "444444444",
+      "email": "max@gmail.com",
+      "linkedin": "linkedlindemo.com",
+      "github": "demogithub.com",
+      "degree": "b.tech in computer science",
+      "college": "standford ",
+      "year": "2023",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "React Hooks",
+        "Redux",
+        "Component Lifecycle",
+        "API Integration",
+        "State Management",
+        "HTML",
+        "CSS"
+      ],
+      "summary": "React developer with strong knowledge of component-based architecture, React hooks, and state management. Experienced in building fast, dynamic, and responsive web applications.",
+      "id": "I5hhS2cYYYQ"
+    },
+    {
+      "fullname": "saleri",
+      "location": "sicliy",
+      "job": "Graphic Designer",
+      "phone": "99999999",
+      "email": "saleri@gmail.com",
+      "linkedin": "Linkdlin.com",
+      "github": "github.com",
+      "degree": "B.TECH",
+      "college": "KTU",
+      "year": "2022",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Brand Identity Design",
+        "Layout Design",
+        "Color Theory",
+        "Creative Thinking",
+        "Visual Communication",
+        "Logo Design",
+        "Image Editing"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, and digital design. Skilled in using modern design tools to create compelling visual content.",
+      "id": "7i2yoxgMqMY"
+    },
+    {
+      "fullname": "joe",
+      "location": "empire bay",
+      "job": "Node.js Developer",
+      "phone": "666666666",
+      "email": "joe@gamil.com",
+      "linkedin": "linkedlindemo.com",
+      "github": "demogithub.com",
+      "degree": "BCA",
+      "college": "standford ",
+      "year": "2026",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": "tm8rot0ms-Q"
+    },
+    {
+      "fullname": "frank",
+      "location": "horbroken",
+      "job": "Business Analyst",
+      "phone": "333333333",
+      "email": "frank@gmail.com",
+      "linkedin": "Linkdlin.com",
+      "github": "github.com",
+      "degree": "b.tech in computer science",
+      "college": "standford ",
+      "year": "2026",
+      "skills": [
+        "Requirement Gathering",
+        "Business Process Analysis",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Documentation",
+        "Process Improvement",
+        "SQL",
+        "Agile Methodology",
+        "Problem Solving",
+        "Reporting"
+      ],
+      "summary": "Business analyst experienced in analyzing business processes, gathering requirements, and providing data-driven insights to support strategic decision-making.",
+      "id": "haPF-B37jzg"
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "10/29/2026, 10:50:35 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793251234/grffemtbl9gow0xlurfm.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "XZ87etHWrfk"
+    },
+    {
+      "timeStamp": "10/29/2026, 10:50:35 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793251234/vimqcb2nsmswqczehz8u.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "7jYCsBpA-GM"
+    },
+    {
+      "timeStamp": "10/29/2026, 10:50:39 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793251238/s73jvd9n26ea3gaicxie.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "3iJI4BA8Inc"
+    },
+    {
+      "timeStamp": "10/29/2026, 10:51:36 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793251295/qeuzwatose7govmufvtr.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "890Ozd4-vZw"
+    },
+    {
+      "timeStamp": "10/29/2026, 11:09:51 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793252389/yluvsiuk0rujywd6viev.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "bFEQYmRCw-I"
+    },
+    {
+      "timeStamp": "10/29/2026, 11:17:30 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793252849/xpanamzzvylbjpxtqyyy.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "KyCQ7qRe-vY"
+    },
+    {
+      "timeStamp": "10/29/2026, 11:30:29 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793253628/x27lopntr8y5nlsitshd.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "Rb4ngG0vJLA"
+    },
+    {
+      "timeStamp": "10/29/2026, 10:26:40 PM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793293001/fze30hsrabgkoyqiiu71.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "-biRvLdfuv0"
+    },
+    {
+      "timeStamp": "10/29/2026, 10:27:08 PM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793293028/s91gzkvdjyssod3sqbgz.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "id": "727D5KJW16E"
+    },
+    {
+      "timeStamp": "10/30/2026, 5:07:18 PM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793360239/vo7dondpn1qtoveuhfu3.png",
+      "resumeId": "ygTR7nuXVPM",
+      "id": "EPEDEzoeqp4"
+    },
+    {
+      "timeStamp": "10/31/2026, 12:18:36 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793386118/xnl2ztiwyyjn6rityqzu.png",
+      "resumeId": "iTl0qPNhvK0",
+      "jobRole": "UI/UX Designer",
+      "id": "OqVbowKZTDg"
+    },
+    {
+      "timeStamp": "10/31/2026, 12:21:52 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793386314/qb3qh6dmyxuyflqk4gn1.png",
+      "resumeId": "2Uj5_Hrqrmg",
+      "jobRole": "Backend Developer",
+      "id": "o-N2jBS6l-A"
+    },
+    {
+      "timeStamp": "10/31/2026, 12:28:09 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793386691/ypkerus32amkw7slp1cl.png",
+      "resumeId": "7i2yoxgMqMY",
+      "jobRole": "Graphic Designer",
+      "id": "NPnAV423xWw"
+    },
+    {
+      "timeStamp": "10/31/2026, 12:29:28 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793386770/oi3nbpk8hgftcqvnah6s.png",
+      "resumeId": "tm8rot0ms-Q",
+      "jobRole": "Node.js Developer",
+      "id": "rEakQzrR99I"
+    },
+    {
+      "timeStamp": "10/31/2026, 12:31:27 AM",
+      "resumeImg": "https://res.cloudinary.com/xuu7qri1/image/upload/v1793386889/plrst0hp2r1qwpeelvnn.png",
+      "resumeId": "haPF-B37jzg",
+      "jobRole": "Business Analyst",
+      "id": "mmPrrATHhLg"
+    }
+  ]
+
+}
